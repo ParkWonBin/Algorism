@@ -1,1 +1,7 @@
 [비공개]
+.vscode
+C#/.vs
+C#/beakjoon_step/.vs
+C#/beakjoon_step/beakjoon_step/bin/
+C#/beakjoon_step/beakjoon_step/obj/
+C#/beakjoon_step/beakjoon_step/step1.csproj
