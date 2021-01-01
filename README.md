@@ -1,2 +1,2 @@
-# Algorism
- 백준 알고리즘 문제풀기
+# [Beakjoon]](https://www.acmicpc.net/problemset)
+- [단계별 문제](https://www.acmicpc.net/step)
