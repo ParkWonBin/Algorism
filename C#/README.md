@@ -11,4 +11,5 @@ System.Console.WriteLine("Hello World!"); // 출력창에 띄우기
 ```
 
 [무료 C# 강좌](https://www.youtube.com/watch?v=dTc_Ty9D_wo&list=PL4SIC1d_ab-Y-bBKojxhtFWwNpawMM1h5)
-2020.1.1 1~8강 수강 
+2020.1.1 1~8강 수강  / 백준 1단계
+2020.1.2 9~13강 수강 / 백준 2단계

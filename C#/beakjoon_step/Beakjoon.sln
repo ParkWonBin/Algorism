@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "step1", "beakjoon_step\step1.csproj", "{542ACA8B-AA2A-4DBF-AF0E-D16D902EB45F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "step_01", "beakjoon_step\step_01.csproj", "{542ACA8B-AA2A-4DBF-AF0E-D16D902EB45F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "step_02", "step_02\step_02.csproj", "{9DB416F9-C219-4681-A88F-B7D206C2C11F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{542ACA8B-AA2A-4DBF-AF0E-D16D902EB45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{542ACA8B-AA2A-4DBF-AF0E-D16D902EB45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{542ACA8B-AA2A-4DBF-AF0E-D16D902EB45F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB416F9-C219-4681-A88F-B7D206C2C11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB416F9-C219-4681-A88F-B7D206C2C11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB416F9-C219-4681-A88F-B7D206C2C11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB416F9-C219-4681-A88F-B7D206C2C11F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
