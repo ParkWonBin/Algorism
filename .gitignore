@@ -4,12 +4,6 @@ onlyme
 *.vs
 *.ipynb_checkpoints/
 *.csproj
-
-C#/beakjoon_step/step_01/bin/
-C#/beakjoon_step/step_02/bin/
-C#/beakjoon_step/step_03/bin/
-
-C#/beakjoon_step/step_01/obj/
-C#/beakjoon_step/step_02/obj/
-C#/beakjoon_step/step_03/obj/
-
+*.dll
+*.cache
+C#/Beakjoon_steps/bin/Debug/

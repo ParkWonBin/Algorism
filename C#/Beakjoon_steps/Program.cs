@@ -10,6 +10,7 @@ namespace Beakjoon_steps
             RunStep02();
             RunStep03();
             */
+            Step03.P05();
         }
         static void RunStep01() {
             Step01.P01();
@@ -25,11 +26,16 @@ namespace Beakjoon_steps
             Step02.P02();
             Step02.P03();
             Step02.P04();
+            Console.WriteLine("공백 구분 숫자 2개 입력 바람");
             Step02.P05();
         }
 
         static void RunStep03() {
             Step03.P01();
+            Step03.P02();
+            Step03.P03();
+            Step03.P04();
+            Step03.P05();
             
         }
     }
