@@ -1,22 +1,15 @@
-.vscode
 onlyme
-C#/.vs
-C#/beakjoon_step/.vs
+.vscode
 
-C#/beakjoon_step/beakjoon_step/bin/
-C#/beakjoon_step/beakjoon_step/obj/
-C#/beakjoon_step/beakjoon_step/step1.csproj
+*.vs
+*.ipynb_checkpoints/
+*.csproj
 
-C#/beakjoon_step/beakjoon_step02/bin/
-C#/beakjoon_step/beakjoon_step02/obj/
-
-python/.ipynb_checkpoints/
-
-
-
+C#/beakjoon_step/step_01/bin/
 C#/beakjoon_step/step_02/bin/
+C#/beakjoon_step/step_03/bin/
+
+C#/beakjoon_step/step_01/obj/
 C#/beakjoon_step/step_02/obj/
-C#/beakjoon_step/step_02/step_02.csproj
-C#/beakjoon_step/Beakjoon.sln
-C#/beakjoon_step/beakjoon_step/step_01.csproj
-C#/beakjoon_step/Beakjoon.sln
+C#/beakjoon_step/step_03/obj/
+
