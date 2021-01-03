@@ -1,0 +1,16 @@
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\obj\Debug\net5.0\Beakjoon_steps.csprojAssemblyReference.cache
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\obj\Debug\net5.0\Beakjoon_steps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\obj\Debug\net5.0\Beakjoon_steps.AssemblyInfoInputs.cache
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\obj\Debug\net5.0\Beakjoon_steps.AssemblyInfo.cs
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\obj\Debug\net5.0\Beakjoon_steps.csproj.CoreCompileInputs.cache
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\bin\Debug\net5.0\Beakjoon_steps.exe
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\bin\Debug\net5.0\Beakjoon_steps.deps.json
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\bin\Debug\net5.0\Beakjoon_steps.runtimeconfig.json
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\bin\Debug\net5.0\Beakjoon_steps.runtimeconfig.dev.json
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\bin\Debug\net5.0\Beakjoon_steps.dll
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\bin\Debug\net5.0\ref\Beakjoon_steps.dll
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\bin\Debug\net5.0\Beakjoon_steps.pdb
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\obj\Debug\net5.0\Beakjoon_steps.dll
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\obj\Debug\net5.0\ref\Beakjoon_steps.dll
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\obj\Debug\net5.0\Beakjoon_steps.pdb
+C:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\obj\Debug\net5.0\Beakjoon_steps.genruntimeconfig.cache

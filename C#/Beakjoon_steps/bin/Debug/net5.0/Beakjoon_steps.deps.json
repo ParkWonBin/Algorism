@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Beakjoon_steps/1.0.0": {
+        "runtime": {
+          "Beakjoon_steps.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Beakjoon_steps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

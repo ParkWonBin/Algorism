@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Beakjoon_steps.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\pwb1128\Desktop\Algorism\C#\Beakjoon_steps\.idea\.idea.Beakjoon_steps\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
