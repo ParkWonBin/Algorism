@@ -6,3 +6,7 @@ onlyme
 *.csproj
 *.dll
 *.cache
+C#/Beakjoon_steps/obj/Release/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+C#/Beakjoon_steps/obj/Release/net5.0/Beakjoon_steps.AssemblyInfo.cs
+C#/Beakjoon_steps/obj/Release/net5.0/Beakjoon_steps.GeneratedMSBuildEditorConfig.editorconfig
+C#/Beakjoon_steps/obj/Debug/net5.0/Beakjoon_steps.csprojAssemblyReference.cache

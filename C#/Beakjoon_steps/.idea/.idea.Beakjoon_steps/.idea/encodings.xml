@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$USER_HOME$/AppData/LocalLow/Redbeet Interactive/Raft/User/User_76561198084780456/World/aaa/2021.01.07-3.26-Latest/aaa.rgd" charset="ISO-8859-1" />
+  </component>
 </project>
